@@ -1,7 +1,7 @@
 package main
 
-import 
+import "fmt"
 
-func main()  {
-	
+func main() {
+	fmt.Printf("init ok")
 }

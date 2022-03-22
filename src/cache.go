@@ -2,7 +2,7 @@ package src
 
 import (
 	"sync"
-	"tinycache/src/lru"
+	"tinycache/lru"
 )
 
 type cache struct {
